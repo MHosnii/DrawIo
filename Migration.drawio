@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T08:25:11.836Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="oXaKTkj6up8THCwxqx6H" version="24.3.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-05-08T08:26:24.487Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="cDJg9B8kqtx6XDrthWAu" version="24.3.1" type="github" pages="7">
   <diagram name="layers" id="N5KD9k04Xfpsm38TPEUA">
     <mxGraphModel dx="1804" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -677,7 +677,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6ojYN1b-NSr_2UjZMT12-69" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Customer Screening&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="260" y="490" width="180" height="90" as="geometry" />
+          <mxGeometry x="310" y="489" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6ojYN1b-NSr_2UjZMT12-70" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#100f0f;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.automation;" parent="1" vertex="1">
           <mxGeometry x="340" y="490" width="28" height="28" as="geometry" />
@@ -685,7 +685,7 @@
         <mxCell id="6ojYN1b-NSr_2UjZMT12-71" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="50" y="490" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="6ojYN1b-NSr_2UjZMT12-72" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Lead&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="6ojYN1b-NSr_2UjZMT12-71" vertex="1">
+        <mxCell id="6ojYN1b-NSr_2UjZMT12-72" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;draft&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="6ojYN1b-NSr_2UjZMT12-71" vertex="1">
           <mxGeometry width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6ojYN1b-NSr_2UjZMT12-73" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1b1d1d;shape=mxgraph.azure.user;" parent="6ojYN1b-NSr_2UjZMT12-71" vertex="1">
@@ -694,8 +694,8 @@
         <mxCell id="6ojYN1b-NSr_2UjZMT12-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6ojYN1b-NSr_2UjZMT12-75" target="6ojYN1b-NSr_2UjZMT12-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6ojYN1b-NSr_2UjZMT12-75" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;GenerateApplication&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="668" y="489" width="180" height="90" as="geometry" />
+        <mxCell id="6ojYN1b-NSr_2UjZMT12-75" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;loan eligibility&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="600" y="489" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6ojYN1b-NSr_2UjZMT12-76" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#100f0f;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.automation;" parent="1" vertex="1">
           <mxGeometry x="640" y="490" width="28" height="28" as="geometry" />
@@ -872,9 +872,6 @@
         </mxCell>
         <mxCell id="6ojYN1b-NSr_2UjZMT12-131" value="stage location changed&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="1305" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BAj6ZZIZhgHtOJep1-hz-1" value="loan eligibility" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="467" y="494" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
