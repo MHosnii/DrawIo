@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T13:32:48.287Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="1dfYIUQISnhZHFsjQHJl" version="24.3.1" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-05-08T19:48:46.364Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="uM0ruL0fu9kQJmubCpvA" version="24.3.1" type="github" pages="16">
   <diagram id="FSEz3NKn8MGeTbbiw71Y" name="after confirm aproved offer ">
     <mxGraphModel dx="954" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="10" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PRWd43zcW1NFm-TDi0C0-1" value="if success" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=39;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry y="230" width="570" height="140" as="geometry" />
+          <mxGeometry y="230" width="800" height="140" as="geometry" />
         </mxCell>
         <mxCell id="PRWd43zcW1NFm-TDi0C0-2" value="kastle&amp;nbsp;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="80" y="150" width="100" height="380" as="geometry" />
@@ -31,7 +31,7 @@
           <mxGeometry x="45" y="80" width="10" height="170" as="geometry" />
         </mxCell>
         <mxCell id="PRWd43zcW1NFm-TDi0C0-8" value="NE&amp;nbsp;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="460" y="150" width="100" height="300" as="geometry" />
+          <mxGeometry x="590" y="160" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="PRWd43zcW1NFm-TDi0C0-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="PRWd43zcW1NFm-TDi0C0-8" vertex="1">
           <mxGeometry x="45" y="60" width="10" height="190" as="geometry" />
@@ -53,20 +53,20 @@
             <mxPoint x="309.5" y="312" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PRWd43zcW1NFm-TDi0C0-12" value="initiate ivr call&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PRWd43zcW1NFm-TDi0C0-11" vertex="1" connectable="0">
+        <mxCell id="PRWd43zcW1NFm-TDi0C0-12" value="initiate ivr schedular" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PRWd43zcW1NFm-TDi0C0-11" vertex="1" connectable="0">
           <mxGeometry x="-0.0831" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PRWd43zcW1NFm-TDi0C0-13" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" edge="1">
+        <mxCell id="PRWd43zcW1NFm-TDi0C0-13" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" edge="1" target="PRWd43zcW1NFm-TDi0C0-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="326" as="sourcePoint" />
             <mxPoint x="504.5" y="326" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PRWd43zcW1NFm-TDi0C0-14" value="ivr call (compAppID , product code )" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PRWd43zcW1NFm-TDi0C0-13" vertex="1" connectable="0">
+        <mxCell id="PRWd43zcW1NFm-TDi0C0-14" value="initiate scheduler (comp app id , product code )" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PRWd43zcW1NFm-TDi0C0-13" vertex="1" connectable="0">
           <mxGeometry x="-0.1557" y="3" relative="1" as="geometry">
-            <mxPoint x="17" y="-8" as="offset" />
+            <mxPoint x="58" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PRWd43zcW1NFm-TDi0C0-15" value="else failed&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=39;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -89,11 +89,14 @@
         <mxCell id="j877ztp46RwSkKXFNs0R-1" value="confirm offer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="190" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uNtUseq9PvzKpSnGRIYY-1" value="initiate scheduler flow&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="295" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="5rK6P_0AC-Q-kXD_8Jps" name="mobile journy direct flow or Dashboard Flow ">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1468" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,16 +112,13 @@
         <mxCell id="SulJlKB7kTC-4tQDrA0w-58" value="pending auto call&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=39;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="970" y="520" width="640" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="SulJlKB7kTC-4tQDrA0w-66" value="pending auto call&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=39;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="10" y="800" width="600" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="SulJlKB7kTC-4tQDrA0w-5" value="pending manual call&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=39;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="970" y="640" width="600" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SulJlKB7kTC-4tQDrA0w-1" value="else" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=39;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1065" y="581" width="500" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="SulJlKB7kTC-4tQDrA0w-2" value="pending manual call&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=39;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="SulJlKB7kTC-4tQDrA0w-2" value="pending call&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=39;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="10" y="579" width="600" height="220" as="geometry" />
         </mxCell>
         <mxCell id="SulJlKB7kTC-4tQDrA0w-6" value="stage = IVR" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=39;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -424,7 +424,7 @@
           <mxGeometry x="10" y="942" width="600" height="98" as="geometry" />
         </mxCell>
         <mxCell id="SulJlKB7kTC-4tQDrA0w-62" value="&amp;nbsp;(&lt;span style=&quot;color: rgb(23, 43, 77); background-color: rgb(255, 255, 255); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left;&quot;&gt;You will receive a call from EMKAN on this number (customer mobile number , remaining time ) to confirm request&amp;nbsp;&lt;/span&gt;&lt;br&gt;)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="825" width="430" height="80" as="geometry" />
+          <mxGeometry x="160" y="695" width="430" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SulJlKB7kTC-4tQDrA0w-63" value="if ivr scheduled&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=39;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1065" y="528" width="500" height="53" as="geometry" />
@@ -443,9 +443,6 @@
         </mxCell>
         <mxCell id="Sl72n9vcAtXfF62ErQgz-18" value="Fire IVR Notification Flow (NE_IVR_Flow1)&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1190" y="674" width="260" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Sl72n9vcAtXfF62ErQgz-27" value="show meesage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="860" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fo40umZ8I_AAa6IevzKq-2" value="if customer choose stant back &amp;gt;&amp;gt; navigate tto IVR page and reload it&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="1152" width="390" height="50" as="geometry" />
@@ -975,7 +972,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JKIOV3kH5Dp2uS02cGX0" name="IVR Call Back Flow ">
-    <mxGraphModel dx="2915" dy="1400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4203" pageHeight="1519" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="4203" pageHeight="1519" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
