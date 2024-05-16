@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T10:03:42.797Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="1rFKfaZqSXMtN6vGrGQe" version="24.4.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-05-16T10:05:57.562Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="O4CBgCK3EK7zKeM-qX6R" version="24.4.2" type="github" pages="9">
   <diagram id="FSEz3NKn8MGeTbbiw71Y" name="after confirm aproved offer ">
     <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -409,7 +409,7 @@
             <mxPoint x="1091.6" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SulJlKB7kTC-4tQDrA0w-60" value="do ivr logic&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SulJlKB7kTC-4tQDrA0w-59" vertex="1" connectable="0">
+        <mxCell id="SulJlKB7kTC-4tQDrA0w-60" value="do ivr logic (check auto call , manual call status)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SulJlKB7kTC-4tQDrA0w-59" vertex="1" connectable="0">
           <mxGeometry x="0.4706" y="-6" relative="1" as="geometry">
             <mxPoint x="38" as="offset" />
           </mxGeometry>
@@ -484,7 +484,7 @@
           <mxGeometry x="1230" y="180" width="350" height="110" as="geometry" />
         </mxCell>
         <mxCell id="leXIphtmYxVEOy30JiKN-1" value="Fire force lock schedular&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="785" width="260" height="30" as="geometry" />
+          <mxGeometry x="1190" y="760" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OWFt8IpwANes5sJzs8vB-1" value="ACCEPT" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=39;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="10" y="1138" width="600" height="130" as="geometry" />
@@ -514,6 +514,9 @@
         </mxCell>
         <mxCell id="VXmEJEDegU7QXoeioo_1-1" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=eventNonint;symbol=timer;" vertex="1" parent="1">
           <mxGeometry x="10" y="220" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PSOYBD7p6QVRqSnt1OyH-1" value="get finance amount (app id)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="810" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
