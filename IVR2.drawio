@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T10:33:32.020Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="AjE49qb94pdHZfmT1IaN" version="24.4.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-05-19T12:14:03.184Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="v4OZ8GmtKZ0dWTfvSxnI" version="24.4.2" type="github" pages="9">
   <diagram id="FSEz3NKn8MGeTbbiw71Y" name="after confirm aproved offer ">
-    <mxGraphModel dx="954" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,11 +92,17 @@
         <mxCell id="uNtUseq9PvzKpSnGRIYY-1" value="initiate scheduler flow&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="660" y="295" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="K2Xd7sruwhKrexYtBztG-1" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;in3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22initiate%20ivr%20schedular%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22214.7037037037037%22%20y%3D%22311.2962962962963%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="598" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K2Xd7sruwhKrexYtBztG-2" value="initiateIVRSchedular(ivrCount ,manualCallCounter ,&amp;nbsp; endTime , autoTimeInterval , callStartAt , callEndAt , manualIntervalTime , uniqueIdentifier (compAppID, ProductId))" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="580" width="920" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="5rK6P_0AC-Q-kXD_8Jps" name="mobile journy direct flow or Dashboard Flow ">
-    <mxGraphModel dx="1468" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -384,6 +390,11 @@
             <mxPoint x="129.5" y="404" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="bTuVDmTC5MMUhJDlGUic-1" value="ivrStatusResponse()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SulJlKB7kTC-4tQDrA0w-49">
+          <mxGeometry x="0.6029" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SulJlKB7kTC-4tQDrA0w-50" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="133" y="652" as="sourcePoint" />
@@ -517,6 +528,9 @@
         </mxCell>
         <mxCell id="PSOYBD7p6QVRqSnt1OyH-1" value="get finance amount (app id)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1190" y="810" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bTuVDmTC5MMUhJDlGUic-2" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;ivrStatusResponse(status . manualCallStatus , remainigTime , nextCallTime , remainingCalls , manualSchedularTime )&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="25" y="1660" width="600" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -692,7 +706,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vZoPN83ZJc26y4Fvan6s" name="IVR scheduler Inquiry Flow ">
-    <mxGraphModel dx="954" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4203" pageHeight="1519" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4203" pageHeight="1519" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
