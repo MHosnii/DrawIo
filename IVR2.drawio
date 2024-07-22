@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-05-04T20:47:32.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="WjGw17sx7JMUCewDu9Nl" version="24.2.5" type="device" pages="16">
+<mxfile host="Electron" modified="2024-05-04T21:17:48.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="xJrADsOP14jLuuYv69mO" version="24.2.5" type="device" pages="15">
   <diagram id="FSEz3NKn8MGeTbbiw71Y" name="after confirm aproved offer ">
     <mxGraphModel dx="1404" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,6 +97,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HqOGiNC1jrud46rKLo5_-2" value="pending manual call&amp;nbsp;&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=39;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="1360" width="500" height="53" as="geometry" />
+        </mxCell>
         <mxCell id="2t8VIoHLDuck0uvJqCry-1" value="declined" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=39;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="969" y="720" width="600" height="160" as="geometry" />
         </mxCell>
@@ -473,9 +476,6 @@
         <mxCell id="HqOGiNC1jrud46rKLo5_-3" value="Fire force unlock schedular&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1170" y="1424.5" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HqOGiNC1jrud46rKLo5_-2" value="pending manual call&amp;nbsp;&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=39;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="1360" width="500" height="53" as="geometry" />
-        </mxCell>
         <mxCell id="2t8VIoHLDuck0uvJqCry-5" value="standback" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="45" y="1230" width="60" height="30" as="geometry" />
         </mxCell>
@@ -504,7 +504,7 @@
         <mxCell id="OWFt8IpwANes5sJzs8vB-1" value="ACCEPT" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=39;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="10" y="1280" width="600" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="OWFt8IpwANes5sJzs8vB-2" value="Accept" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=39;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="OWFt8IpwANes5sJzs8vB-2" value="Accept" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=39;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="970" y="880" width="600" height="160" as="geometry" />
         </mxCell>
         <mxCell id="OWFt8IpwANes5sJzs8vB-5" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="OWFt8IpwANes5sJzs8vB-4" target="SulJlKB7kTC-4tQDrA0w-22">
@@ -521,26 +521,21 @@
         <mxCell id="OWFt8IpwANes5sJzs8vB-7" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="OWFt8IpwANes5sJzs8vB-3" target="OWFt8IpwANes5sJzs8vB-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="JEKUYvsBA9J6xIS81qvK" name="Page-3">
-    <mxGraphModel dx="1306" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="Bgbn_7XzRBHKXryZaCc6-1" value="Insurance Request" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=39;" parent="1" vertex="1">
-          <mxGeometry x="130" y="588" width="1085" height="262" as="geometry" />
+        <mxCell id="OWFt8IpwANes5sJzs8vB-16" value="buyCommodity" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="289.996666666667" y="1329.9955555555555" as="geometry" />
+        </mxCell>
+        <mxCell id="OWFt8IpwANes5sJzs8vB-17" value="Fire disable schedular&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="945" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="RUrXswtD0WGPMVddadkA" name="IVR Notification Flow (NE_IVR_Flow1) ">
-    <mxGraphModel dx="2009" dy="1295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4203" pageHeight="1519" math="0" shadow="0">
+    <mxGraphModel dx="1404" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4203" pageHeight="1519" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="i_PB6du-ofkDzVXxBqz8-3" value="pending manual call or declined&amp;nbsp;&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=39;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="i_PB6du-ofkDzVXxBqz8-3" value="not timed out&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=39;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="940" y="260" width="370" height="210" as="geometry" />
         </mxCell>
         <mxCell id="i_PB6du-ofkDzVXxBqz8-4" value="IVR" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
@@ -686,7 +681,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jadtcowvR3APdsuGT4M--1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LbaT2h1-XX9mEUEJbqcT-9">
+        <mxCell id="jadtcowvR3APdsuGT4M--1" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LbaT2h1-XX9mEUEJbqcT-9" vertex="1" connectable="0">
           <mxGeometry x="-0.3865" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -706,7 +701,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vZoPN83ZJc26y4Fvan6s" name="IVR scheduler Inquiry Flow ">
-    <mxGraphModel dx="1306" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4203" pageHeight="1519" math="0" shadow="0">
+    <mxGraphModel dx="1404" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4203" pageHeight="1519" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -799,7 +794,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eqbi1l9YKcbvzkfo5Mv1" name="Fire IVR Schedular Flow (Sch_IVR_Flow1) ">
-    <mxGraphModel dx="1306" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4203" pageHeight="1519" math="0" shadow="0">
+    <mxGraphModel dx="1404" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4203" pageHeight="1519" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -842,7 +837,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xJ_pPAYxSwpY_I9AyFTz-14" value="internal Gw" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+        <mxCell id="xJ_pPAYxSwpY_I9AyFTz-14" value="internal Gw" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1351" y="150" width="100" height="220" as="geometry" />
         </mxCell>
         <mxCell id="xJ_pPAYxSwpY_I9AyFTz-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="xJ_pPAYxSwpY_I9AyFTz-14" vertex="1">
@@ -916,7 +911,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LW3VPvgcMnG4fvKAzYru-14" value="internal Gw" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+        <mxCell id="LW3VPvgcMnG4fvKAzYru-14" value="internal Gw" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1320" y="400" width="100" height="280" as="geometry" />
         </mxCell>
         <mxCell id="LW3VPvgcMnG4fvKAzYru-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="LW3VPvgcMnG4fvKAzYru-14" vertex="1">
@@ -965,7 +960,7 @@
             <mxPoint x="1280" y="555.2727272727273" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LW3VPvgcMnG4fvKAzYru-2" value="loop if counter &amp;gt; #autoIVRCounter[20] and forceStop = false" style="shape=umlFrame;whiteSpace=wrap;html=1;width=195;height=50;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="LW3VPvgcMnG4fvKAzYru-2" value="loop if counter &amp;gt; #autoIVRCounter[20] and status &amp;lt;&amp;gt; disable&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=195;height=50;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="900" y="490" width="440" height="170" as="geometry" />
         </mxCell>
         <mxCell id="LW3VPvgcMnG4fvKAzYru-39" value="CronJopDTO &amp;gt;&amp;gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: inherit; font-family: inherit; font-size: inherit; font-weight: inherit; text-align: start;&quot;&gt; schedule: &quot;*/15 * * * *&quot;&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;retryPolicy : onFailur&lt;span style=&quot;background-color: transparent; color: inherit; font-family: inherit; font-size: inherit; font-weight: inherit;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -975,7 +970,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JKIOV3kH5Dp2uS02cGX0" name="IVR Call Back Flow ">
-    <mxGraphModel dx="1633" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4203" pageHeight="1519" math="0" shadow="0">
+    <mxGraphModel dx="1652" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4203" pageHeight="1519" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1363,11 +1358,14 @@
         <mxCell id="JRyuFclBOpepSdg-H_X3-6" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" source="a6Bwf0C7P0Y9yUy7cvwk-6" target="JRyuFclBOpepSdg-H_X3-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3bBtACSXrdmUkingUWZC-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Fire disable schedular&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="480" width="141" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="uOIpza4h28lV43DjnL-s" name="Emkan WorkFlow">
-    <mxGraphModel dx="2009" dy="1295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1404" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
