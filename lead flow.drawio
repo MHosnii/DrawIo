@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T14:11:29.039Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="yuLgdDZ4J8XlSadaxhbW" version="24.6.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-23T14:13:04.299Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="j_B3iOQK1yQw4ZHKHaj8" version="24.6.5" type="github" pages="4">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="3457" dy="1580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -863,10 +863,10 @@
         <mxCell id="M8EyIEin9n7oZNL0umZs-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.269;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="M8EyIEin9n7oZNL0umZs-54" target="M8EyIEin9n7oZNL0umZs-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M8EyIEin9n7oZNL0umZs-63" value="in cooling period&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M8EyIEin9n7oZNL0umZs-63" value="in cooling period&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="170" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="M8EyIEin9n7oZNL0umZs-64" value="not in cooling period&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M8EyIEin9n7oZNL0umZs-64" value="not in cooling period&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="250" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="M8EyIEin9n7oZNL0umZs-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.2;entryY=0.391;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="M8EyIEin9n7oZNL0umZs-64" target="M8EyIEin9n7oZNL0umZs-52">
