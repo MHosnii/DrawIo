@@ -2652,10 +2652,13 @@
     </mxGraphModel>
   </diagram>
   <diagram name="seq" id="YxLSTOBfQd-aEe5sv3XR">
-    <mxGraphModel dx="2120" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="561" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jaMwRngFJhhe-gXUZO40-52" value="out side retry conter&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=140;height=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="350" y="690" width="520" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="jaMwRngFJhhe-gXUZO40-37" value="failed&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=80;height=20;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="550" y="600" width="910" height="170" as="geometry" />
         </mxCell>
@@ -2856,19 +2859,15 @@
         <mxCell id="jaMwRngFJhhe-gXUZO40-48" value="within retry conter&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=140;height=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="350" y="620" width="520" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jaMwRngFJhhe-gXUZO40-49" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" source="jaMwRngFJhhe-gXUZO40-44" target="jaMwRngFJhhe-gXUZO40-50" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jaMwRngFJhhe-gXUZO40-49" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" source="jaMwRngFJhhe-gXUZO40-44" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="710.2941176470588" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jaMwRngFJhhe-gXUZO40-51" value="raise failer action&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jaMwRngFJhhe-gXUZO40-49" vertex="1" connectable="0">
           <mxGeometry x="-0.1515" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="jaMwRngFJhhe-gXUZO40-50" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=9;" parent="1" vertex="1">
-          <mxGeometry x="770" y="700" width="60" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jaMwRngFJhhe-gXUZO40-52" value="out side retry conter&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=140;height=15;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="350" y="690" width="520" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jaMwRngFJhhe-gXUZO40-53" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" source="PRWd43zcW1NFm-TDi0C0-3" target="jaMwRngFJhhe-gXUZO40-29" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2879,6 +2878,9 @@
           <mxGeometry x="-0.2075" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5iu3UjSJeb16SikQITxy-1" value="create Jira" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="770" y="690" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
