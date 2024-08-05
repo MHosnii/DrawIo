@@ -356,7 +356,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UnI51zcS5NbHnqlAvVLZ" name="Page-2">
-    <mxGraphModel dx="2735" dy="1378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1781" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -387,8 +387,8 @@
             <mxPoint x="-235" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D_-1QW1JXf5Sl1nVwlum-1" value="Apply for TopUp" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-770" y="138" width="110" height="30" as="geometry" />
+        <mxCell id="D_-1QW1JXf5Sl1nVwlum-1" value="Apply for TopUp or Micro&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-795" y="138" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tf4WmWPH4eLoDcIHFeZ8-1" value="ENMIE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-55" y="40" width="120" height="60" as="geometry" />
