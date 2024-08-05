@@ -879,7 +879,7 @@
         <mxCell id="diRIJDAWU8BUFDwuRLAV-55" value="CustomerOnBoardingThroughBranch" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="70" y="70" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="diRIJDAWU8BUFDwuRLAV-56" value="CustomerReviewDetails" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="diRIJDAWU8BUFDwuRLAV-56" value="CustomerReviewDetails (CRM F001)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" y="540" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="diRIJDAWU8BUFDwuRLAV-57" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
