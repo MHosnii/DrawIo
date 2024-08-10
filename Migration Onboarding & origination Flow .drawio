@@ -256,7 +256,7 @@
             <mxPoint x="199.5" y="121" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hz8eH05jnCoIRsSEUsET-6" value="IG(MW)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+        <mxCell id="hz8eH05jnCoIRsSEUsET-6" value="IG" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="330" y="40" width="105" height="950" as="geometry" />
         </mxCell>
         <mxCell id="hz8eH05jnCoIRsSEUsET-8" value="/getUserInfo" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
@@ -2033,7 +2033,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="x6_fNawb8ru-d1VT7ifD" name="Apply (Loan Eligibility)">
-    <mxGraphModel dx="3534" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2514,7 +2514,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Apply (Loan Eligibility)" id="YgaezwfmLgdzGqXJaCSl">
-    <mxGraphModel dx="2707" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="nnpX8sObzgJemF_XPxiB-0" />
         <mxCell id="nnpX8sObzgJemF_XPxiB-1" parent="nnpX8sObzgJemF_XPxiB-0" />
