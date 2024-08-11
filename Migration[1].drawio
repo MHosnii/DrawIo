@@ -2652,7 +2652,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="seq" id="YxLSTOBfQd-aEe5sv3XR">
-    <mxGraphModel dx="561" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="940" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2663,7 +2663,7 @@
           <mxGeometry x="550" y="600" width="910" height="170" as="geometry" />
         </mxCell>
         <mxCell id="jaMwRngFJhhe-gXUZO40-36" value="rule success&amp;nbsp;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=80;height=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="550" y="380" width="910" height="220" as="geometry" />
+          <mxGeometry x="500" y="380" width="910" height="220" as="geometry" />
         </mxCell>
         <mxCell id="PRWd43zcW1NFm-TDi0C0-2" value="work Flow engine&amp;nbsp;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="80" y="150" width="110" height="880" as="geometry" />
@@ -2879,7 +2879,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5iu3UjSJeb16SikQITxy-1" value="create Jira" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="5iu3UjSJeb16SikQITxy-1" value="create Jira" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="770" y="690" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
