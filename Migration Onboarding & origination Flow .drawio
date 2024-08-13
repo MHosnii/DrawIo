@@ -4797,7 +4797,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pmyJ5LNGwiSQDV3RqjRl-1" value="pendingOffer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="110" y="610" width="160" height="60" as="geometry" />
+          <mxGeometry x="120" y="870" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pmyJ5LNGwiSQDV3RqjRl-3" value="pendingDocumentUpload" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="110" y="388.33" width="160" height="60" as="geometry" />
