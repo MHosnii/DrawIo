@@ -4709,39 +4709,42 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hMGcTkp24xS8BsiEzid3" name="Upload Document Flow ">
-    <mxGraphModel dx="1420" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1671" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iwz1Sgo4NhvjzwTO6Iow-1" value=":Mobile" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="247" y="80" width="100" height="720" as="geometry" />
+          <mxGeometry x="247" y="80" width="100" height="910" as="geometry" />
         </mxCell>
         <mxCell id="pmyJ5LNGwiSQDV3RqjRl-2" value="pendingDocumentUpload" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="iwz1Sgo4NhvjzwTO6Iow-1" vertex="1">
           <mxGeometry x="-137" y="60" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iwz1Sgo4NhvjzwTO6Iow-3" value="B2C" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="414" y="80" width="100" height="860" as="geometry" />
+          <mxGeometry x="414" y="80" width="100" height="890" as="geometry" />
         </mxCell>
         <mxCell id="iwz1Sgo4NhvjzwTO6Iow-6" value="IG " style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="80" width="100" height="830" as="geometry" />
+          <mxGeometry x="727" y="80" width="100" height="860" as="geometry" />
         </mxCell>
         <mxCell id="iwz1Sgo4NhvjzwTO6Iow-9" value="LOS" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="800" y="80" width="130" height="890" as="geometry" />
+          <mxGeometry x="870" y="80" width="130" height="890" as="geometry" />
         </mxCell>
         <mxCell id="4sfVayGwT6OsDuILI22_-1" value="Uploaded successfully" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#FF9999;strokeWidth=1;dashed=1;" parent="iwz1Sgo4NhvjzwTO6Iow-9" vertex="1">
           <mxGeometry x="-67.5" y="490" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="hBoM8dYXATYaJk3bR4AH-2" value="moveToNextStage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" parent="4sfVayGwT6OsDuILI22_-1" vertex="1">
-          <mxGeometry x="150" y="37.67" width="110" height="30" as="geometry" />
+          <mxGeometry x="150" y="110" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pmyJ5LNGwiSQDV3RqjRl-4" value="APP Data Entry stage : Complete&amp;nbsp;&lt;div&gt;Decision : pending&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="4sfVayGwT6OsDuILI22_-1" vertex="1">
-          <mxGeometry x="30" y="60.66999999999996" width="160" height="60" as="geometry" />
+          <mxGeometry x="30" y="44.99999999999996" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4sfVayGwT6OsDuILI22_-5" value="Else" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#FF9999;strokeWidth=1;dashed=1;" parent="iwz1Sgo4NhvjzwTO6Iow-9" vertex="1">
           <mxGeometry x="-67.5" y="640" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="iwz1Sgo4NhvjzwTO6Iow-26" value=":DMS-MS" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="80" width="100" height="880" as="geometry" />
+          <mxGeometry x="580" y="80" width="120" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="iFstaOC5URPOB1IankoL-2" value="APP Data Entry stage : pending Upload Document&lt;div&gt;Decision : pending&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="iwz1Sgo4NhvjzwTO6Iow-26">
+          <mxGeometry x="-40" y="650" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iwz1Sgo4NhvjzwTO6Iow-67" value="success" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.28;exitY=0.96;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.1;entryY=0.236;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -4749,22 +4752,22 @@
             <mxPoint x="650" y="854.33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="27lZ-t9kHmCiXNjOJjZF-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.522;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="iwz1Sgo4NhvjzwTO6Iow-9" edge="1">
+        <mxCell id="27lZ-t9kHmCiXNjOJjZF-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.522;entryY=0.463;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.549;exitY=0.477;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="iwz1Sgo4NhvjzwTO6Iow-9" edge="1" source="iwz1Sgo4NhvjzwTO6Iow-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="652" y="495.33000000000004" as="sourcePoint" />
             <mxPoint x="860" y="494" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iwz1Sgo4NhvjzwTO6Iow-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=0.568;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="iwz1Sgo4NhvjzwTO6Iow-26" edge="1">
+        <mxCell id="iwz1Sgo4NhvjzwTO6Iow-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.53;entryY=0.453;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="450" as="sourcePoint" />
-            <mxPoint x="654" y="456.33000000000004" as="targetPoint" />
+            <mxPoint x="639.3235294117644" y="453.58000000000015" as="sourcePoint" />
+            <mxPoint x="780" y="453.58000000000015" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="27lZ-t9kHmCiXNjOJjZF-2" value="OMNI" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="80.33" width="100" height="885.67" as="geometry" />
+          <mxGeometry x="1070" y="82.17" width="100" height="885.67" as="geometry" />
         </mxCell>
-        <mxCell id="ssmw6LCxCz96oYRPG1q8-2" value="success" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.496;exitY=0.376;exitDx=0;exitDy=0;exitPerimeter=0;" parent="27lZ-t9kHmCiXNjOJjZF-2" edge="1">
+        <mxCell id="ssmw6LCxCz96oYRPG1q8-2" value="success" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.496;exitY=0.376;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.508;entryY=0.31;entryDx=0;entryDy=0;entryPerimeter=0;" parent="27lZ-t9kHmCiXNjOJjZF-2" edge="1" target="iwz1Sgo4NhvjzwTO6Iow-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="47" y="277.34000000000003" as="sourcePoint" />
             <mxPoint x="-90" y="275.67" as="targetPoint" />
@@ -4776,20 +4779,20 @@
             <mxPoint x="-57" y="455.67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="27lZ-t9kHmCiXNjOJjZF-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" edge="1">
+        <mxCell id="27lZ-t9kHmCiXNjOJjZF-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" edge="1" target="27lZ-t9kHmCiXNjOJjZF-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="860" y="786" as="sourcePoint" />
             <mxPoint x="652" y="786" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="27lZ-t9kHmCiXNjOJjZF-6" value="success" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.28;exitY=0.96;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.1;entryY=0.236;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="27lZ-t9kHmCiXNjOJjZF-6" value="success" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.28;exitY=0.96;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="655" y="826.33" as="sourcePoint" />
-            <mxPoint x="1082.1999999999998" y="826.05" as="targetPoint" />
+            <mxPoint x="651.4" y="712.1" as="sourcePoint" />
+            <mxPoint x="1149.4999999999995" y="712.1000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pmyJ5LNGwiSQDV3RqjRl-1" value="pendingOffer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="110" y="660" width="160" height="60" as="geometry" />
+          <mxGeometry x="110" y="610" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pmyJ5LNGwiSQDV3RqjRl-3" value="pendingDocumentUpload" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="110" y="388.33" width="160" height="60" as="geometry" />
@@ -4851,7 +4854,7 @@
         <mxCell id="iwz1Sgo4NhvjzwTO6Iow-64" value="&lt;span style=&quot;color: rgb(36 , 36 , 36) ; font-size: 12px&quot;&gt;Upload Documents&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.96;exitY=0.124;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="0.0588" width="80" relative="1" as="geometry">
             <mxPoint x="470" y="425.3280000000001" as="sourcePoint" />
-            <mxPoint x="1139.5" y="425.328" as="targetPoint" />
+            <mxPoint x="640" y="425" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -4892,13 +4895,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ssmw6LCxCz96oYRPG1q8-3" value="APP Data Entry stage : pending Upload Document&lt;div&gt;Decision : pending&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1241" y="380.33" width="160" height="60" as="geometry" />
+          <mxGeometry x="1150" y="388.33" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ssmw6LCxCz96oYRPG1q8-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.48;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="iwz1Sgo4NhvjzwTO6Iow-9" target="27lZ-t9kHmCiXNjOJjZF-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="890" y="308" as="sourcePoint" />
             <mxPoint x="1015.5999999999999" y="307.7" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iFstaOC5URPOB1IankoL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="pmyJ5LNGwiSQDV3RqjRl-4" target="pmyJ5LNGwiSQDV3RqjRl-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
