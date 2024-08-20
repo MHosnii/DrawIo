@@ -22,7 +22,7 @@
         <mxCell id="H8_iOUF670tAff-_qscs-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1b1d1d;shape=mxgraph.azure.user;" parent="H8_iOUF670tAff-_qscs-3" vertex="1">
           <mxGeometry x="3" width="27" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H8_iOUF670tAff-_qscs-65" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="H8_iOUF670tAff-_qscs-124" source="H8_iOUF670tAff-_qscs-72" target="H8_iOUF670tAff-_qscs-54" edge="1">
+        <mxCell id="H8_iOUF670tAff-_qscs-65" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="H8_iOUF670tAff-_qscs-124" source="H8_iOUF670tAff-_qscs-72" target="H8_iOUF670tAff-_qscs-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1450" y="220" as="sourcePoint" />
           </mxGeometry>
@@ -350,28 +350,13 @@
         <mxCell id="T4ns44H2DWK93TgEQS4X-80" value="" style="group" parent="H8_iOUF670tAff-_qscs-124" vertex="1" connectable="0">
           <mxGeometry x="790" y="101" width="783" height="177" as="geometry" />
         </mxCell>
-        <mxCell id="T4ns44H2DWK93TgEQS4X-58" value="" style="group" parent="T4ns44H2DWK93TgEQS4X-80" vertex="1" connectable="0">
-          <mxGeometry x="-4" y="-4" width="783" height="177" as="geometry" />
+        <mxCell id="H8_iOUF670tAff-_qscs-83" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Eligibility check&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="T4ns44H2DWK93TgEQS4X-80" vertex="1">
+          <mxGeometry x="310.26" y="45.2" width="119.74" height="84.8" as="geometry" />
         </mxCell>
-        <mxCell id="H8_iOUF670tAff-_qscs-72" value="APP Data Entry (Conditional)" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#bac8d3;strokeColor=#23445d;container=0;" parent="T4ns44H2DWK93TgEQS4X-58" vertex="1">
-          <mxGeometry width="783.0000000000001" height="177" as="geometry">
+        <mxCell id="H8_iOUF670tAff-_qscs-72" value="APP Data Entry (Conditional)" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#bac8d3;strokeColor=#23445d;container=0;" parent="T4ns44H2DWK93TgEQS4X-80" vertex="1">
+          <mxGeometry x="-4" y="-4" width="783.0000000000001" height="177" as="geometry">
             <mxRectangle x="540" y="620" width="200" height="30" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="H8_iOUF670tAff-_qscs-73" value="" style="group" parent="H8_iOUF670tAff-_qscs-72" vertex="1" connectable="0">
-          <mxGeometry x="12.731707317073173" y="22.430875576036865" width="114.58536585365856" height="73.41013824884793" as="geometry" />
-        </mxCell>
-        <mxCell id="H8_iOUF670tAff-_qscs-74" value="" style="group" parent="H8_iOUF670tAff-_qscs-73" vertex="1" connectable="0">
-          <mxGeometry y="7.341013824884793" width="114.58536585365856" height="73.41013824884793" as="geometry" />
-        </mxCell>
-        <mxCell id="H8_iOUF670tAff-_qscs-75" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Product Declaration&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="H8_iOUF670tAff-_qscs-74" vertex="1">
-          <mxGeometry x="3" y="11.894009216589861" width="114.58536585365856" height="73.41013824884793" as="geometry" />
-        </mxCell>
-        <mxCell id="H8_iOUF670tAff-_qscs-76" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1b1d1d;shape=mxgraph.azure.user;" parent="H8_iOUF670tAff-_qscs-74" vertex="1">
-          <mxGeometry x="1.9097560975609758" width="17.187804878048784" height="32.62672811059908" as="geometry" />
-        </mxCell>
-        <mxCell id="H8_iOUF670tAff-_qscs-77" value="Conditional" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="H8_iOUF670tAff-_qscs-74" vertex="1">
-          <mxGeometry x="50.92682926829269" y="10.15668202764977" width="50.92682926829269" height="16.31336405529954" as="geometry" />
         </mxCell>
         <mxCell id="H8_iOUF670tAff-_qscs-97" value="Conditional" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="H8_iOUF670tAff-_qscs-72" vertex="1">
           <mxGeometry x="649.3170731707318" y="50.97926267281106" width="50.92682926829269" height="16.313364055299537" as="geometry" />
@@ -379,20 +364,26 @@
         <mxCell id="H8_iOUF670tAff-_qscs-84" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#100f0f;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.automation;" parent="H8_iOUF670tAff-_qscs-72" vertex="1">
           <mxGeometry x="324.00422580645153" y="56.44714285714289" width="10.84249323621228" height="10.84249323621228" as="geometry" />
         </mxCell>
-        <mxCell id="H8_iOUF670tAff-_qscs-95" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Upload Document&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="T4ns44H2DWK93TgEQS4X-58" vertex="1">
-          <mxGeometry x="637.8585365853659" y="46.49308755760369" width="114.58536585365854" height="73.41013824884793" as="geometry" />
+        <mxCell id="H8_iOUF670tAff-_qscs-75" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Product Declaration&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="H8_iOUF670tAff-_qscs-72" vertex="1">
+          <mxGeometry x="15.73170731707296" y="41.66188940092162" width="114.59" height="88.11" as="geometry" />
         </mxCell>
-        <mxCell id="H8_iOUF670tAff-_qscs-121" value="" style="group" parent="T4ns44H2DWK93TgEQS4X-58" vertex="1" connectable="0">
-          <mxGeometry x="152.78048780487805" y="30.179723502304146" width="114.59" height="100" as="geometry" />
+        <mxCell id="H8_iOUF670tAff-_qscs-76" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1b1d1d;shape=mxgraph.azure.user;" parent="H8_iOUF670tAff-_qscs-72" vertex="1">
+          <mxGeometry x="14.641463414633936" y="29.771889400921623" width="17.187804878048784" height="32.62672811059908" as="geometry" />
+        </mxCell>
+        <mxCell id="H8_iOUF670tAff-_qscs-77" value="Conditional" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="H8_iOUF670tAff-_qscs-72" vertex="1">
+          <mxGeometry x="63.65853658536565" y="39.928571428571395" width="50.92682926829269" height="16.31336405529954" as="geometry" />
+        </mxCell>
+        <mxCell id="H8_iOUF670tAff-_qscs-95" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Upload Document&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="T4ns44H2DWK93TgEQS4X-80" vertex="1">
+          <mxGeometry x="633.8585365853659" y="42.49308755760369" width="114.58536585365854" height="73.41013824884793" as="geometry" />
+        </mxCell>
+        <mxCell id="H8_iOUF670tAff-_qscs-121" value="" style="group" parent="T4ns44H2DWK93TgEQS4X-80" vertex="1" connectable="0">
+          <mxGeometry x="148.78048780487805" y="26.179723502304146" width="114.59" height="100" as="geometry" />
         </mxCell>
         <mxCell id="H8_iOUF670tAff-_qscs-122" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Customer Declaration&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="H8_iOUF670tAff-_qscs-121" vertex="1">
           <mxGeometry y="11.42" width="114.59" height="88.58" as="geometry" />
         </mxCell>
         <mxCell id="H8_iOUF670tAff-_qscs-123" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1b1d1d;shape=mxgraph.azure.user;" parent="H8_iOUF670tAff-_qscs-121" vertex="1">
           <mxGeometry x="23.871951219512194" y="0.40783410138248855" width="17.187804878048784" height="32.62672811059908" as="geometry" />
-        </mxCell>
-        <mxCell id="H8_iOUF670tAff-_qscs-83" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Eligibility check&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="T4ns44H2DWK93TgEQS4X-80" vertex="1">
-          <mxGeometry x="310.26" y="45.2" width="119.74" height="84.8" as="geometry" />
         </mxCell>
         <mxCell id="T4ns44H2DWK93TgEQS4X-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="H8_iOUF670tAff-_qscs-124" source="T4ns44H2DWK93TgEQS4X-70" target="H8_iOUF670tAff-_qscs-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
