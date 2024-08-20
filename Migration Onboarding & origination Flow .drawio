@@ -336,46 +336,16 @@
         <mxCell id="T4ns44H2DWK93TgEQS4X-78" value="" style="group" parent="H8_iOUF670tAff-_qscs-124" vertex="1" connectable="0">
           <mxGeometry x="20" y="111" width="670" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="T4ns44H2DWK93TgEQS4X-65" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;enmi check&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="T4ns44H2DWK93TgEQS4X-78" vertex="1">
-          <mxGeometry x="328.3168345940692" y="39.99793103448275" width="87.59184339314847" height="93.10344827586208" as="geometry" />
-        </mxCell>
-        <mxCell id="T4ns44H2DWK93TgEQS4X-66" value="" style="group" parent="T4ns44H2DWK93TgEQS4X-78" vertex="1" connectable="0">
-          <mxGeometry x="184.27638698630153" y="39.99793103448275" width="104.57659817351598" height="93.10344827586208" as="geometry" />
-        </mxCell>
-        <mxCell id="T4ns44H2DWK93TgEQS4X-67" value="" style="group" parent="T4ns44H2DWK93TgEQS4X-66" vertex="1" connectable="0">
-          <mxGeometry width="104.57659817351598" height="93.10344827586208" as="geometry" />
-        </mxCell>
-        <mxCell id="T4ns44H2DWK93TgEQS4X-68" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Dual APP check&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="T4ns44H2DWK93TgEQS4X-67" vertex="1">
-          <mxGeometry width="104.57659817351598" height="93.10344827586208" as="geometry" />
-        </mxCell>
-        <mxCell id="T4ns44H2DWK93TgEQS4X-69" value="Conditional" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="T4ns44H2DWK93TgEQS4X-67" vertex="1">
-          <mxGeometry x="58.09811009639776" width="46.478488077118215" height="20.689655172413794" as="geometry" />
-        </mxCell>
         <mxCell id="T4ns44H2DWK93TgEQS4X-70" value="Lead" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fillColor=#bac8d3;strokeColor=#23445d;container=0;" parent="T4ns44H2DWK93TgEQS4X-78" vertex="1">
           <mxGeometry width="670" height="150" as="geometry">
             <mxRectangle x="540" y="620" width="200" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T4ns44H2DWK93TgEQS4X-71" value="" style="group" parent="T4ns44H2DWK93TgEQS4X-70" vertex="1" connectable="0">
-          <mxGeometry x="43.79780821917811" y="28.448275862068968" width="99.42922374429224" height="103.44827586206897" as="geometry" />
-        </mxCell>
-        <mxCell id="T4ns44H2DWK93TgEQS4X-72" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Capture customerData&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="T4ns44H2DWK93TgEQS4X-71" vertex="1">
-          <mxGeometry x="0.8114375278235801" y="10.344827586206897" width="98.61584918798607" height="93.10344827586208" as="geometry" />
-        </mxCell>
-        <mxCell id="T4ns44H2DWK93TgEQS4X-73" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1b1d1d;shape=mxgraph.azure.user;" parent="T4ns44H2DWK93TgEQS4X-71" vertex="1">
-          <mxGeometry x="76.27844681426836" width="23.150776930023884" height="41.37931034482759" as="geometry" />
-        </mxCell>
-        <mxCell id="T4ns44H2DWK93TgEQS4X-74" value="" style="group" parent="T4ns44H2DWK93TgEQS4X-70" vertex="1" connectable="0">
-          <mxGeometry x="439.98808219178085" y="28.448275862068954" width="99.42922374429224" height="103.44827586206897" as="geometry" />
-        </mxCell>
-        <mxCell id="T4ns44H2DWK93TgEQS4X-75" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Capture customerData&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="T4ns44H2DWK93TgEQS4X-74" vertex="1">
-          <mxGeometry x="0.8114375278235801" y="10.344827586206897" width="98.61584918798607" height="93.10344827586208" as="geometry" />
-        </mxCell>
-        <mxCell id="T4ns44H2DWK93TgEQS4X-76" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#1b1d1d;shape=mxgraph.azure.user;" parent="T4ns44H2DWK93TgEQS4X-74" vertex="1">
-          <mxGeometry x="76.27844681426836" width="23.150776930023884" height="41.37931034482759" as="geometry" />
+        <mxCell id="T4ns44H2DWK93TgEQS4X-65" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;enmi check&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="T4ns44H2DWK93TgEQS4X-78" vertex="1">
+          <mxGeometry x="310" y="40" width="200" height="93.1" as="geometry" />
         </mxCell>
         <mxCell id="T4ns44H2DWK93TgEQS4X-77" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;loan eligibility check&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="T4ns44H2DWK93TgEQS4X-78" vertex="1">
-          <mxGeometry x="561.9540948680418" y="39.99793103448275" width="87.59184339314847" height="93.10344827586208" as="geometry" />
+          <mxGeometry x="530" y="40" width="119.55" height="93.1" as="geometry" />
         </mxCell>
         <mxCell id="T4ns44H2DWK93TgEQS4X-80" value="" style="group" parent="H8_iOUF670tAff-_qscs-124" vertex="1" connectable="0">
           <mxGeometry x="790" y="101" width="783" height="177" as="geometry" />
@@ -445,6 +415,21 @@
               <mxPoint x="1330" y="311" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="T4ns44H2DWK93TgEQS4X-72" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Capture customerData&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="H8_iOUF670tAff-_qscs-124" vertex="1">
+          <mxGeometry x="200" y="149.79" width="108.62" height="93.1" as="geometry" />
+        </mxCell>
+        <mxCell id="T4ns44H2DWK93TgEQS4X-66" value="" style="group" parent="H8_iOUF670tAff-_qscs-124" vertex="1" connectable="0">
+          <mxGeometry x="53" y="148.5" width="128.85" height="93.1" as="geometry" />
+        </mxCell>
+        <mxCell id="T4ns44H2DWK93TgEQS4X-67" value="" style="group" parent="T4ns44H2DWK93TgEQS4X-66" vertex="1" connectable="0">
+          <mxGeometry width="128.85" height="93.1" as="geometry" />
+        </mxCell>
+        <mxCell id="T4ns44H2DWK93TgEQS4X-68" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Dual APP check&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="T4ns44H2DWK93TgEQS4X-67" vertex="1">
+          <mxGeometry width="128.85" height="93.1" as="geometry" />
+        </mxCell>
+        <mxCell id="T4ns44H2DWK93TgEQS4X-69" value="Conditional" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="T4ns44H2DWK93TgEQS4X-67" vertex="1">
+          <mxGeometry x="71.58333333333333" width="57.26666666666667" height="20.688888888888886" as="geometry" />
         </mxCell>
         <mxCell id="rpRphemu8_xBegeIlTdD-1" value="" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="210" width="1660" height="1150" as="geometry" />
