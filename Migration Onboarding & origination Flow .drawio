@@ -5385,16 +5385,16 @@
           <mxGeometry x="-755" y="110" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BAWV0IDTU42zlU03fOGB-47" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-760" y="978" width="30" height="60" as="geometry" />
+          <mxGeometry x="-745" y="917.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BAWV0IDTU42zlU03fOGB-48" value="getApplicationStatus&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-764.8" y="1018" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BAWV0IDTU42zlU03fOGB-49" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.gauge;" parent="1" vertex="1">
-          <mxGeometry x="-711" y="978" width="32.4" height="31.5" as="geometry" />
+          <mxGeometry x="-692.4" y="977.5" width="32.4" height="31.5" as="geometry" />
         </mxCell>
         <mxCell id="BAWV0IDTU42zlU03fOGB-50" value="background Job on InProgress screen&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="1009" width="140" height="30" as="geometry" />
+          <mxGeometry x="-800" y="1048" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BAWV0IDTU42zlU03fOGB-51" value="store Active Loans&lt;div&gt;Apply rules&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="444.27" y="585" width="140" height="30" as="geometry" />
